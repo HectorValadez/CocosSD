@@ -1,0 +1,19 @@
+body{
+    background-color: #8e0000;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #0c0076, #8e0000), repeating-radial-gradient(circle at center center, #0c0076, #0c0076, 10px, transparent 20px, transparent 10px);
+    background-blend-mode: multiply;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+a{
+text-decoration: none;
+color: black;
+font-size: 20px;
+background: linear-gradient(turquoise,lightseagreen,aqua);
+padding: 0px 20px;
+}

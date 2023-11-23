@@ -1,0 +1,15 @@
+#lista {
+    position: absolute;
+    right: 20px;
+    text-align: right;
+    font-size: 20px;
+}
+
+body {
+    background-color: #8e0000;
+opacity: 1;
+background-image: radial-gradient(circle at center center, #0c0076, #8e0000), repeating-radial-gradient(circle at center center, #0c0076, #0c0076, 10px, transparent 20px, transparent 10px);
+background-blend-mode: multiply;
+color: white;
+-webkit-text-stroke: 0.2px rgb(255, 255, 255);
+}
